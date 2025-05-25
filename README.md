@@ -26,20 +26,21 @@ This study simulates and analyzes behavioral decisions under manipulated physiol
 
 ## 📁 Folder Structure
 
-```plaintext
-Behavioral-Decision-Making-Analysis-Under-Physiological-States/
-├── dataset.csv           # Experimental dataset
-├── analysis.py           # Data analysis and visualization
-├── model.py              # Behavioral model implementation
-├── requirements.txt      # Python dependencies
-├── LICENSE               # MIT License
+| File / Folder       | Description                                 |
+|---------------------|---------------------------------------------|
+| `dataset.csv`        | Experimental dataset                        |
+| `analysis.py`        | Data analysis and visualization             |
+| `model.py`           | Behavioral model implementation             |
+| `requirements.txt`   | Python package dependencies                 |
+| `LICENSE`            | MIT License                                 |
+
  Core Concepts
 Behavioral Economics
 
 Cognitive Psychology
 
 Decision-Making under Uncertainty
-
+'''
 Experimental Simulations|
 pip install -r requirements.txt
 python analysis.py
